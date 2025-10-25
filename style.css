@@ -1,15 +1,15 @@
+@charset "UTF-8";
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box; 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box; 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-
 
 body {
   background: #f2f2f2;
@@ -18,14 +18,12 @@ body {
   font-family: Arial, sans-serif;
 }
 
-
 .topbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 20px;
   background: #ffffff;
-
 }
 
 .brand {
@@ -50,7 +48,6 @@ body {
   background: #19a974;
   color: #fff;
 }
-
 
 .hero {
   display: flex;
@@ -84,7 +81,6 @@ body {
   border-radius: 10px;
 }
 
-
 .btnDoar {
   padding: 10px 16px;
   border: 1px solid #19a974;
@@ -108,7 +104,6 @@ body {
   margin-right: 10px;
 }
 
-
 .how {
   padding: 30px 20px;
   background: #f9f9f9;
@@ -127,7 +122,6 @@ body {
   margin-right: 10px;
 }
 
-// PRODUTOS 
 .products {
   padding: 30px 20px;
   background: #fff;
@@ -161,7 +155,6 @@ body {
   margin-top: 10px;
 }
 
-// Avaliação
 .Relatos {
   background: #f9f9f9;
   padding: 30px 20px;
@@ -179,7 +172,6 @@ body {
   padding: 10px;
   margin: 5px;
 }
-
 
 .final-cta {
   padding: 30px 20px;
@@ -208,12 +200,13 @@ body {
   color: #fff;
   padding: 15px 20px;
 }
-button{
-    border-radius: 10px;
+
+button {
+  border-radius: 10px;
 }
 
-@media( max-width: 500px ){
-    img{
-        display: none;
-    }
-}
+@media (max-width: 500px) {
+  img {
+    display: none;
+  }
+}/*# sourceMappingURL=style.css.map */
